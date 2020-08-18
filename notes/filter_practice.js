@@ -1,0 +1,1 @@
+// The .filter() method does exactly what it sounds like it would do. It iterates through an array and returns only values that follow a specified rule.
