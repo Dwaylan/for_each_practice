@@ -1,3 +1,6 @@
+// Higher order functions are functions that take in other functions
+
+
 // The .forEach() method can be called on any array.
 // This function iterates through all of the values in an array and uses the callback function
 //  passed to it to do something with the value. 

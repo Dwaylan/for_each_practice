@@ -17,3 +17,5 @@ const itDidntWork = myExes.map((myExes) => {
 // It's 
 
 console.log(itDidntWork);
+
+// In essence map converts everything within an array
